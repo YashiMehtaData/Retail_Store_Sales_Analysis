@@ -27,5 +27,4 @@
   1.	In online – 64.10k
   2.	In payment cash – 41.31k(121.05k)
 
-# Profit currently increasing in online product with high discount and demands on
-Butchers. Mostly customers using cash as payment method in store and onl
+# Profit currently increasing in online product with high discount and demands on Butchers. Mostly customers using cash as payment method in store and onl
